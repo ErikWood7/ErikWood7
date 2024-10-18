@@ -41,7 +41,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/erik-wood-222e/)
 - <b> 📞 (Personal Phone Number) : 330-541-0341</b>
-- <b> 📧 (Email) ERocket7@outlook.com</b>
+- <b> 📧 (Email) Erik.K.Wood7@gmail.com</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
