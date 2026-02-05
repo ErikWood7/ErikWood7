@@ -3,7 +3,7 @@
 <h2>Software Projects</h2>
 
 **Bitcoin Transaction Visualizer**  
--[Bitcoin Transaction Visualizer](https://github.com/ErikWood7/Bitcoin-Transaction-Visualizer)
+- [Bitcoin Transaction Visualizer](https://github.com/ErikWood7/Bitcoin-Transaction-Visualizer)
 - Interactive tool for visualizing Bitcoin transactions  
 - Designed to help beginners understand how BTC transactions work under the hood  
 - Focused on clarity, data flow, and educational value  
